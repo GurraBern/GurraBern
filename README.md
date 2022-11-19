@@ -1,4 +1,2 @@
 - 👋 Hi, I’m @GurraBern
-- 👀 I’m interested in gamedevelopment 
 - 🌱 I’m currently studying IT at Chalmers University of Technology
-- 💞️ I’m looking to work on 
