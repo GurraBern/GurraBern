@@ -1,9 +1,11 @@
-- 👋 Hi, I’m @GurraBern
-- 🌱 I’m currently studying IT at Chalmers University of Technology
+Welcome to my GitHub profile! I'm a passionate software developer with a keen interest in C# and the .NET stack. I'm currently advancing my skills at HedinIT.
 
+## About Me
+- 🎓 **Education**: Bachelor’s degree in IT from Chalmers University of Technology.
+- 💼 **Current Role**: Software Developer at HedinIT.
+- 💻 **Specialties**: C#, .NET, software development, and problem-solving.
+- 🌱 **Currently Learning**: Advanced .NET technologies and modern software architecture.
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=GurraBern&repo=NutritionApp)](https://github.com/GurraBern/NutritionApp)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=GurraBern&repo=NutritionApi)](https://github.com/GurraBern/NutritionApi)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=GurraBern&repo=PloggingApp)](https://github.com/GurraBern/PloggingApp)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GurraBern&size_weight=0.2&count_weight=1.9 )](https://github.com/GurraBern/github-readme-stats)
