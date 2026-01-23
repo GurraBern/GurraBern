@@ -4,5 +4,8 @@
 - 💻 **Specialties**: C#, .NET, software development and problem-solving.
 - 🌱 **Currently Learning**: Advanced .NET technologies and modern software architecture.
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=GurraBern&repo=NutritionApi)](https://github.com/GurraBern/NutritionApi)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=GurraBern&repo=PloggingApp)](https://github.com/GurraBern/NutritionApp)
+
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=GurraBern&repo=PloggingApp)](https://github.com/GurraBern/PloggingApp)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=GurraBern&repo=NutritionApi)](https://github.com/GurraBern/NutritionApi)
